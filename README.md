@@ -22,6 +22,8 @@
 #### Grey reference
 ![grey](./screenshots/onedark_grey_ref.png)
 
+---
+
 > [!NOTE]
 > Need to check colors in all settings. And solve some issue with dolphin and kvantum.
 > If someone want to help me finish this theme - welcome...
