@@ -3,6 +3,11 @@
 > [!IMPORTANT]
 > This is not a standalone theme, needs Hyprdots installed...
 
+![t1](./screenshots/240213_11h51m40s_screenshot.png)
+![t2](./screenshots/240213_11h46m43s_screenshot.png)
+![t3](./screenshots/240213_11h47m22s_screenshot.png)
+![t4](./screenshots/240213_11h47m56s_screenshot.png)
+
 
 > [!NOTE]
 > install this theme using themepatcher
@@ -11,7 +16,8 @@
 ./themepatcher.sh "One-Dark" "https://github.com/RAprogramm/hyprdots-onedark" "mskelton.one-dark-theme~One Dark Theme"
 ```
 
-Color pallete
-![colors](./onedark-reference.png)
-Grey reference
-![grey](./onedark_grey_ref.png)
+#### Color pallete
+![colors](./screenshots/onedark-reference.png)
+
+#### Grey reference
+![grey](./screenshots/onedark_grey_ref.png)
