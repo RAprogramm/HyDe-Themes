@@ -1,7 +1,7 @@
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br></div>
 
 > [!IMPORTANT]
-> This is not a standalone theme, needs Hyprdots installed...
+> This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
 
 ![t1](./screenshots/240213_11h51m40s_screenshot.png)
 ![t2](./screenshots/240213_11h46m43s_screenshot.png)
