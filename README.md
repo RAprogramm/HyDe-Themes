@@ -13,7 +13,7 @@
 > install this theme using themepatcher
 
 ```sh
-./themepacther.sh  'One-Dark' 'https://github.com/RAprogramm/hyprdots-theme/tree/One-Dark' 'mskelton.one-dark-theme~One Dark Theme'
+./themepatcher.sh  'One-Dark' 'https://github.com/RAprogramm/hyprdots-theme/tree/One-Dark' 'mskelton.one-dark-theme~One Dark Theme'
 ```
 
 #### Color pallete
