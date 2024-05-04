@@ -8,6 +8,14 @@
 ![t3](./screenshots/240213_11h47m22s_screenshot.png)
 ![t4](./screenshots/240213_11h47m56s_screenshot.png)
 
+> [!NOTE]
+> install this theme using HyDe
+
+```sh
+Hyde theme patch 'Dracula' 'https://github.com/RAprogramm/Dracula/tree/main' 'dracula-theme.theme-dracula~Dracula'
+```
+
+
 
 > [!NOTE]
 > install this theme using themepatcher
