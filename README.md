@@ -17,23 +17,8 @@ and choose One-Dark
 
 ---
 
-or install it manually
+or install another theme from [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
 
-> [!NOTE]
-> install this theme using HyDe
->
->```sh
->Hyde theme patch 'One-Dark' 'https://github.com/RAprogramm/hyprdots-theme/tree/One-Dark' 'mskelton.one-dark-theme~One Dark'
->```
-
-
-
-> [!NOTE]
-> install this theme using themepatcher
->
->```sh
->./themepatcher.sh 'One-Dark' 'https://github.com/RAprogramm/hyprdots-theme/tree/One-Dark' 'mskelton.one-dark-theme~One Dark'
->```
 
 ## Colors
 
