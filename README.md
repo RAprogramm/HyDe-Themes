@@ -12,7 +12,7 @@
 > install this theme using HyDe
 
 ```sh
-Hyde theme patch 'Dracula' 'https://github.com/RAprogramm/Dracula/tree/main' 'dracula-theme.theme-dracula~Dracula'
+Hyde theme patch 'One-Dark' 'https://github.com/RAprogramm/hyprdots-theme/tree/One-Dark' 'mskelton.one-dark-theme~One Dark'
 ```
 
 
@@ -21,7 +21,7 @@ Hyde theme patch 'Dracula' 'https://github.com/RAprogramm/Dracula/tree/main' 'dr
 > install this theme using themepatcher
 
 ```sh
-./themepatcher.sh  'One-Dark' 'https://github.com/RAprogramm/hyprdots-theme/tree/One-Dark' 'mskelton.one-dark-theme~One Dark'
+./themepatcher.sh 'One-Dark' 'https://github.com/RAprogramm/hyprdots-theme/tree/One-Dark' 'mskelton.one-dark-theme~One Dark'
 ```
 
 #### Color pallete
