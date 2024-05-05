@@ -5,7 +5,7 @@
 1. [Dracula](https://github.com/RAprogramm/HyDe-Themes/tree/Dracula)
 2. [One-Dark](https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark)
 
-> [!INFO]
+> [!TIP]
 > Full list of themes you can find in [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
 
 ## Installation
