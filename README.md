@@ -21,7 +21,6 @@ and choose prefered theme from [HyDe Gallery](https://github.com/kRHYME7/hyde-ga
 ## Contributing steps:
 
 1. Create a new fork.
-
 ![1](./screenshots/240506_07h00m11s_screenshot.png)
 ---
 
