@@ -1,3 +1,5 @@
+$HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
+
 foreground #f8f8f2
 background #282a36
 selection_foreground #ffffff

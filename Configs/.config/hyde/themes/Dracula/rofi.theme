@@ -1,3 +1,5 @@
+$HOME/.config/rofi/theme.rasi
+
 configuration {
     show-icons:      true;
     display-drun:    "";
