@@ -1,3 +1,4 @@
+$HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
 # vim:ft=kitty
 
 # The basic colors

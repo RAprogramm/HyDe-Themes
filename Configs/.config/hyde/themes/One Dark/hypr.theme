@@ -1,3 +1,4 @@
+$HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 exec = gsettings set org.gnome.desktop.interface icon-theme 'One-Dark'
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'One-Dark'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
