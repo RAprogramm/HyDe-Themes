@@ -20,7 +20,7 @@ configuration {
     drac-red: #ff5555;
     drac-yel: #f1fa8c;
 
-    font: "Jetbrains Mono 12";
+    font: "Jetbrains Mono 11";
 
     foreground: @drac-fgd;
     background-color: @drac-bgd;
@@ -33,6 +33,15 @@ configuration {
     selected-active-background: @active-background;
     separatorcolor: @active-background;
     bordercolor: #6272a4;
+    
+    main-bg:            @drac-bgd;
+    main-fg:            @drac-pur;
+    main-br:            @drac-pur;
+    main-ex:            @drac-grn;
+    select-bg:          @drac-pur;
+    select-fg:          @drac-cur;
+    separatorcolor:     transparent;
+    border-color:       transparent;
 }
 
 #window {
