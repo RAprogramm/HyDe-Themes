@@ -39,14 +39,19 @@ color7 #f8f8f2
 color15 #ffffff
 
 # Cursor colors
-cursor #f8f8f2
-cursor_text_color background
+cursor none
+
+tab_bar_style powerline
+tab_powerline_style round
+
+active_tab_font_style bold
+inactive_tab_font_style normal
 
 # Tab bar colors
 active_tab_foreground #282a36
-active_tab_background #f8f8f2
-inactive_tab_foreground #282a36
-inactive_tab_background #6272a4
+active_tab_background #bd93f9
+inactive_tab_background #282a36
+inactive_tab_foreground #6272a4
 
 # Marks
 mark1_foreground #282a36
